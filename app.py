@@ -16,7 +16,7 @@ import marimo
 __generated_with = "0.25.2"
 app = marimo.App(
     width="medium",
-    app_title="Palmer Regression Analysis",
+    app_title="Linear Regression App",
     css_file="public/custom.css",
 )
 
